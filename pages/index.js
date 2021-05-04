@@ -11,7 +11,7 @@ export default function Home() {
       <body>
         <p className={styles.para}> <h1>Let's Burn</h1> </p>
         <Link href="/signup">
-          <a class="waves-effect waves-light btn #ffcdd2 black">button</a>
+          <a class="waves-effect waves-light btn #ffcdd2 black">Join Now</a>
         </Link>
       </body>
     </div>
